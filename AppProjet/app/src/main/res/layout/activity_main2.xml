@@ -4,14 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity2">
+    tools:context=".MainActivity2"
+    android:background="@color/backgroudGris">
 
 
     <TextView
         android:layout_width="223dp"
         android:layout_height="48dp"
         android:text="@string/msg_2e_activity"
-        android:textColor="@color/purple_500"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.547"
         app:layout_constraintLeft_toLeftOf="parent"
