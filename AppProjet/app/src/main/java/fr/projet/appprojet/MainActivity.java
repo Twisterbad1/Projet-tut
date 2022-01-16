@@ -9,14 +9,12 @@ import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private ImageView start;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        this.start = (ImageView) findViewById(R.id.start);
+        ImageView start = (ImageView) findViewById(R.id.start);
 
         start.setOnClickListener(new View.OnClickListener() {
             @Override
