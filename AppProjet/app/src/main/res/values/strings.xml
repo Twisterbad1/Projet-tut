@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AppProjet</string>
+    <string name="app_name">Projetut</string>
     <string name="welcome_msg">Bienvenue sur notre application</string>
     <string name="msg2_2e_activity">Panel de contrôle</string>
     <string name="msg_2e_activity">Fonctionalité / Mouvements possibles : </string>
